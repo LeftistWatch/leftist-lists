@@ -1,2 +1,2 @@
 # leftist-lists
-Various list of identified leftist associated twitter accounts.
+Various lists of identified leftist associated twitter accounts.
