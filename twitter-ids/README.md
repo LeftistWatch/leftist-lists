@@ -2,7 +2,7 @@
 
 ## Indexing Methodology
 
-**We index twitter profiles by analyzing display names and bios.**
+**We index twitter profiles by analyzing display names and bios**
 
 What we check for:
   * Keywords
