@@ -2,5 +2,5 @@
 
 ## Files
 
-### loosely-associated.txt (1,608,248 ids)
+### loosely-associated.txt (2,375,405 ids)
 A list of twitter ids of accounts that at one point followed a confirmed leftist
